@@ -1,0 +1,2 @@
+# python-template
+pythonプロジェクト構成のテンプレート
